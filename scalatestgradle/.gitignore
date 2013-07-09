@@ -2,5 +2,7 @@
 .classpath
 .project
 .settings
+.idea
+.idea/
 /build
 /bin
