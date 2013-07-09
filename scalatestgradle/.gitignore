@@ -6,6 +6,7 @@
 .gitignore.swp
 .idea
 .idea/
+.DS_Store
 scalatestgradle.iml
 /build
 /bin
