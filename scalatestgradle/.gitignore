@@ -4,5 +4,6 @@
 .settings
 .idea
 .idea/
+scalatestgradle.iml
 /build
 /bin
