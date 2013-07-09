@@ -10,3 +10,4 @@
 scalatestgradle.iml
 /build
 /bin
+/test-output
