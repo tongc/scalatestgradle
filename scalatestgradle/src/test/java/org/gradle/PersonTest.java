@@ -1,12 +1,12 @@
 package org.gradle;
 
-import org.junit.Test;
-import static org.junit.Assert.*;
+import org.testng.Assert;
+import org.testng.annotations.Test;
 
 public class PersonTest {
     @Test
     public void canConstructAPersonWithAName() {
         Person person = new Person("Larry");
-        assertEquals("Larry", person.getName());
+        Assert.assertEquals("Larry", person.getName());
     }
 }
